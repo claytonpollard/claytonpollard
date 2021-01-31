@@ -33,6 +33,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Monitoring students with Notion](https://www.youtube.com/watch?v=X0Aplbuzitw)
 - [Using LaTeX to make beamer presentations (beginners)](https://www.youtube.com/watch?v=Jwk4DGlLMTg)
 - [Setting up R and Rstudio](https://www.youtube.com/watch?v=YBLPkYgS6Qo)
 - [Constructing Pareto charts in R](https://www.youtube.com/watch?v=AykqdWdjTKU)
